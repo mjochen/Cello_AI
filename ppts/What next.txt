@@ -1,6 +1,5 @@
 5 - Model quality
 
-
 The pipeline!
 Different models
 outliers, ordinal nominal, missing values, normalization

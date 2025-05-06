@@ -26,7 +26,6 @@ ax.set_ylabel('Frequency')
 
 st.pyplot(fig)
 
-
 # selectbox to filter by embarked
 embarked = st.selectbox('Select a value', df_filtered.embarked.unique())
 df_filtered = df[df.embarked == embarked]
@@ -39,3 +38,6 @@ ax.set_xlabel('Pclass')
 ax.set_ylabel('Age')
 st.pyplot(fig)
 
+# run by typing...
+# streamlit run '.\3.3 - First streamlit.py'
+# in the terminal
