@@ -44,4 +44,6 @@ Ready to explore? Enter your car’s details and let MPG Predictor do the rest! 
 if ok_button:
     hwy = calculate_hwy()
     st.markdown(f"**Your car will do an average of {hwy} miles per gallon on the highway.**")
-    
+
+# Run using
+# streamlit run '.\4.3 - MPG app.py'
