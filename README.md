@@ -1,3 +1,3 @@
 # Course material for the introduction to AI course
 
-[The website](https://thomasmore.be/nl/vormingen/artificial-intelligence-ai-fundamentals-voor-it-profielen).
+Cleared the github repo because of old requirements. Files stored on onedrive (but not publicly).
